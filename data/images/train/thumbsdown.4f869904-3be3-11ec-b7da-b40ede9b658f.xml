@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>thumbsdown.4f869904-3be3-11ec-b7da-b40ede9b658f.jpg</filename>
+	<path>C:\Users\Jubin Thomas\Machine learning\Tensorflow object detection\TFODCourse-main\Tensorflow\workspace\images\collectedimages\thumbsdown\thumbsdown.4f869904-3be3-11ec-b7da-b40ede9b658f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>td</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>98</ymin>
+			<xmax>502</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
